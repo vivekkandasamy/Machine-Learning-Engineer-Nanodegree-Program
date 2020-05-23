@@ -1,3 +1,5 @@
+# Project dog classification
+
 ## Project Overview
 
 In this project convolutional neural network is used to predict the dog breed from a given image. If the image has a human instead of a dog the resembling dog breed is predicted. If the image does not have a dog or a human, the app prints the image has neither human nor a dog. The result is predicted using CNN architectures like ResNet50 and VGG16.
