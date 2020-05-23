@@ -1,1 +1,1 @@
-# Udacity-machine-learning
+# Udacity Machine Learning Engineer Nanodegree Program
