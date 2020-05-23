@@ -27,6 +27,6 @@ The image below displays an potential output if **a dog** is detected on the ima
 
 ![Sample output](Images/sample_dog_output.png)
 
-The below image is another potential output if **a human** is detected on the image.
+The below image is a potential output if **a human** is detected on the image.
 
 ![Sample output](Images/sample_human_output.png)
