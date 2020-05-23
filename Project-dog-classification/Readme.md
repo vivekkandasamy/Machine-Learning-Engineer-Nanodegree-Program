@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project convolutional neural network is used to predict the dog breed from a given image. If the image has a human instead of a dog the resembling dog breed is predicted. If the image does not have a dog or a human, the app prints the image has neither human nor a dog. The final result is predicted using ResNet50, VGG16 and CV2 Haarcascade architrctures.
+In this project convolutional neural network is used to predict the dog breed from a given image. If the image has a human instead of a dog the resembling dog breed is predicted. If the image does not have a dog or a human, the app prints the image has neither human nor a dog. The final result is predicted using ResNet50, VGG16 and CV2 Haarcascade architectures.
 
 ## Steps involved
 
