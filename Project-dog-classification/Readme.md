@@ -18,7 +18,7 @@ Two models are used to compare the predicted dog breeds.
 
 In Model 1 a convolutional neural network is built from scratch to classify dog breeds. This model has three convolutional layers and two fully connected layers to predict the result. The Model is built from scratch and the model predicts a very low accuracy of 13% on test set
 
-In Model 2 a Pytorch pretrained ResNet-50 model is used. Since a pretrained model is used the model has a test set accuracy of 86%.
+In Model 2 a Pytorch pretrained ResNet-50 model is used. Since a pretrained model with 50 layers is used the model has a test set accuracy of 86%.
 
 
 ## Steps involved
